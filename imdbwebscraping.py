@@ -11,8 +11,8 @@ from requests import get
 
 headers = {"Accept-Language": "en-US, en;q=0.5"}
 
-fromyear = input("Enter From Year: ")
-tillyear = input("Till Year: ")
+fromyear = int(input("Enter From Year: "))
+tillyear = int(input("Till Year: "))
 
 
 # Redeclaring the lists to store data in
