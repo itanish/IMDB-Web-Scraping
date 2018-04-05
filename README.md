@@ -19,6 +19,8 @@
 
 	- Python 3
 
+## Modifications
+  Anyone using the program can modify the url according to the need the default url given is for the top voted movies but can be changed as per requirements.
 
 ## Author
 
